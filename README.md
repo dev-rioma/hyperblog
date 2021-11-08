@@ -5,6 +5,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 Master 1
 
+Master 2
+
 ## En este curso vemos de todo
 * Todos los comandos de Git
 * El flujo de trabajo en Github
